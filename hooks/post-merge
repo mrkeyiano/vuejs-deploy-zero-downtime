@@ -1,0 +1,5 @@
+#!/bin/sh
+
+#vuejs build
+echo initiating application deployment...
+./live-deploy.sh
