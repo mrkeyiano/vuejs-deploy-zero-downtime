@@ -16,7 +16,7 @@ after running ```git pull``` command, you can build your vuejs application with 
 ./live-deploy.sh
 ```
 
-##Automate application build after git pull:
+# Automate application build after git pull:
 
 you can trigger this script to build your vuejs application instantly after running ```git pull``` using git post-merge hook.
 
@@ -50,7 +50,7 @@ chmod +x post-merge.sh
 
 
 
-#NB: Make sure your vuejs application virtual host is pointed to the ```public``` folder and not the ```dist``` folder.
+# NB: Make sure your vuejs application virtual host is pointed to the ```public``` folder and not the ```dist``` folder.
 
 
 
