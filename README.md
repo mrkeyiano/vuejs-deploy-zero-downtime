@@ -1,4 +1,4 @@
-### vuejs-deploy-zero-downtime
+## vuejs-deploy-zero-downtime
 Shell script to deploy vuejs application with zero downtime.
 
 
@@ -50,7 +50,7 @@ chmod +x post-merge.sh
 
 
 
-# Make sure your vuejs application virtual host is pointed to the ```public``` folder and not the ```dist``` folder.
+  NB: Make sure your vuejs application virtual host is pointed to the ```public``` folder and not the ```dist``` folder.
 
 
 
