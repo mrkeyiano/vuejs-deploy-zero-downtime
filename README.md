@@ -26,7 +26,7 @@ cd .git/hooks
 
 edit ```post-merge``` file or create one if it doesnt exist.
 
-#post-merge:
+# post-merge:
 
 ```bash
 
@@ -50,7 +50,7 @@ chmod +x post-merge.sh
 
 
 
-# NB: Make sure your vuejs application virtual host is pointed to the ```public``` folder and not the ```dist``` folder.
+# Make sure your vuejs application virtual host is pointed to the ```public``` folder and not the ```dist``` folder.
 
 
 
